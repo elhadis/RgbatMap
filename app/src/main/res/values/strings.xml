@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RgbatMap</string>
+    <string name="welcome_to_rgbaatmap">WELCOME TO RGBAATMAP</string>
+    <string name="driver"> Driver</string>
+    <string name="customer"> Customer</string>
+    <string name="customerlogin">CustomerLogin</string>
+    <string name="password">password</string>
+    <string name="email">Email</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="don_t_have_account">Dont have Account</string>
+    <string name="driverlogin">DriverLogin</string>
+    <string name="title_activity_drivers_map">Map</string>
+
+</resources>

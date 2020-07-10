@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "992578660124",
+    "firebase_url": "https://rgbatmap.firebaseio.com",
+    "project_id": "rgbatmap",
+    "storage_bucket": "rgbatmap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992578660124:android:c7cecf930de34e7c057cd9",
+        "android_client_info": {
+          "package_name": "com.rgbat.rgbatmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992578660124-cp8kmvelboofbns1p2mgd8irfqbiv05p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-RvIcTBFslzZQ_WKQOQrGakelkcSHwgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992578660124-cp8kmvelboofbns1p2mgd8irfqbiv05p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
